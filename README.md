@@ -1,13 +1,5 @@
 ## Hi there 👋
-My name is Shermin (Yi Xuan), and I'm a Year 2 student majoring in Computer Science.
-
-The programming languages I have learnt: Python, C++, Java
-
-Front-end:HTML5, CSS, JavaScript
-
-Database:MySQL
-
-And I have also studied data communication and networking, as well as cybersecurity🌱
+My name is Shermin (Yi Xuan), and I'm a final year student majoring in Computer Science.
 
 <!--
 **shermin23/shermin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
