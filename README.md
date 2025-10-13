@@ -1,5 +1,8 @@
 ## Hi there 👋
-My name is Shermin (Yi Xuan), and I'm a final year student majoring in Computer Science.
+My name is Shermin (Yi Xuan), and I'm a fresh graduate 
+Education: Bachelor of Computer Science from University Tunku Abdul Rahman (UTAR)
+🌱 I’m currently learning SQL and data analyst related skill set
+📫 How to reach me: sherminseow23@gmail.com
 
 <!--
 **shermin23/shermin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
