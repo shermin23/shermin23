@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Shermin, and I'm a fresh graduate <br>
-Education: Bachelor of Computer Science from University Tunku Abdul Rahman (UTAR) <br>
-🌱 I’m currently learning React and software engineers related skill set <br>
+My name is Shermin, and I'm a fresh graduate from University Tunku Abdul Rahman (UTAR) <br>
+Education: Bachelor of Computer Science from  <br>
+🌱 I’m currently learning React (framework) and software engineer related skill set <br>
 📫 How to reach me: sherminseow23@gmail.com
 
 <!--
